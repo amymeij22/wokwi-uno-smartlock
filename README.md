@@ -8,7 +8,7 @@ Repository ini berisi kode untuk sistem kunci pintar yang dikembangkan menggunak
 
 - **diagram.json**: File ini berisi diagram rangkaian sistem kunci pintar dalam format JSON.
   
-- **diagram.jpg**: File ini berisi diagram rangkaian sistem kunci pintar dalam format JPG.
+- **diagram.png**: File ini berisi diagram rangkaian sistem kunci pintar dalam format JPG.
 
 - **library.txt**: File ini berisi daftar library yang digunakan.
   
